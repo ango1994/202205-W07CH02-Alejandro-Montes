@@ -1,5 +1,5 @@
 export interface iThing {
-  id: number;
+  id: string;
   name: string;
   isCool: string;
 }
