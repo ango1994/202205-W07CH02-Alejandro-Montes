@@ -1,0 +1,24 @@
+{
+  "TIK": [
+    {
+      "id": "1",
+      "name": "Candar neveras",
+      "isCool": "true"
+    },
+    {
+      "id": "2",
+      "name": "Levantar los plomos",
+      "isCool": "true"
+    },
+    {
+      "id": "3",
+      "name": "Robar mochilas",
+      "isCool": "true"
+    },
+    {
+      "id": "4",
+      "name": "Hacer el commit innicial",
+      "isCool": "true"
+    }
+  ]
+}
